@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\bin\Debug\RESTAURANTE.exe.config
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\bin\Debug\RESTAURANTE.exe
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\bin\Debug\RESTAURANTE.pdb
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.Form1.resources
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.Properties.Resources.resources
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.exe
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.pdb
+C:\Users\Alumno\Desktop\RESTAURANTE_C#\RESTAURANTE\obj\Debug\RESTAURANTE.Form2.resources
